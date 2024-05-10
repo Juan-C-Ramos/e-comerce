@@ -1,0 +1,16 @@
+.purchases__card{
+    border: 1px solid gray !important;
+    max-width: 300px;
+    min-width: 300px;
+    padding: 10px;
+    border-radius:10px
+}
+
+.purchase__img{
+    height: 100px;
+}
+.subtitle{
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+}

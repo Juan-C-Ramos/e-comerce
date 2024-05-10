@@ -1,0 +1,24 @@
+.ProductInCart__img{
+    height: 100px;
+}
+
+.ProductInCart__cart{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.ProductInCart__button{
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+    gap: 10px;
+    margin: 3px;
+}
+
+.ProductInCart__buttons{
+    
+    padding: 5px;
+    gap: 10px;
+}
+

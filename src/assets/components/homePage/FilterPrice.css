@@ -1,0 +1,61 @@
+.search__perPrice{
+    border-radius: 10px 10px 0 0;
+    margin: 10px;
+    width: 210px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttonOpen{
+    background-color: rgb(139, 139, 139);
+    color: white;
+    padding: 10px 50px 10px 50px  ;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 2px 1px rgb(73, 73, 73);
+}
+
+.separation{
+    color: white;
+        width: 210px;
+        height: 100%;
+        padding: 10px 0 10px 0;
+    
+}
+
+.filter__container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.filter{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.filter__item{
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.filter__button{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    box-shadow: 3px 3px 5px rgb(107, 106, 106);
+}
+
+
+
+

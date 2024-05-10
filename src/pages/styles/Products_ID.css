@@ -1,0 +1,79 @@
+.productsId{
+    display: flex;
+    flex-direction: column;
+}
+
+.productsId__header{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: 5px solid gray;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+.productsId__description{
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 10px 10px 10px;
+}
+.productsId__buttons__items{
+    background-color: gainsboro;
+    border-radius: 5px;
+    padding: 10px 5px 5px 10px;
+    margin: 5px ;
+}
+.productsId__buttons__show{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px 5px 5px 10px;
+    margin: 5px ;
+    font-size: 25;
+}
+
+.productsId__img{
+    height: 300px;
+}
+.productsId__prices{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+
+}
+
+@media (max-width: 675px) {
+    .productsId__header{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        border: 5px solid gray;
+        border-radius: 15px;
+        margin: 50px;
+        padding: 10px;
+    }
+
+    .productsId__img{
+        height: 250px;
+    }
+    
+}
+
+.comments__title{
+    font-size: 28px;
+    text-align: center;
+}
+

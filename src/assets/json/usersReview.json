@@ -1,0 +1,153 @@
+[
+  {
+    "usuario": "Aventurero2024",
+    "reseña": "La experiencia con este producto ha sido fantástica, superó todas mis expectativas."
+  },
+  {
+    "usuario": "TechGuru91",
+    "reseña": "Buen producto, pero necesitaría mejoras en la próxima versión. Espero con ansias las actualizaciones."
+  },
+  {
+    "usuario": "EstrellaDeMar",
+    "reseña": "¡Increíble! Uso este producto todos los días y no puedo imaginar mi vida sin él."
+  },
+  {
+    "usuario": "CompradorSavvy",
+    "reseña": "Relación calidad-precio justa. Es exactamente lo que prometieron."
+  },
+  {
+    "usuario": "CríticoObjetivo",
+    "reseña": "El producto cumple con su función, pero no ofrece nada innovador o único."
+  },
+  {
+    "usuario": "FanáticoDeLoNuevo",
+    "reseña": "Me encanta probar productos nuevos y este definitivamente está en mi lista de favoritos."
+  },
+  {
+    "usuario": "UsuarioPráctico",
+    "reseña": "Funcional y práctico, aunque el diseño podría ser más atractivo."
+  },
+  {
+    "usuario": "AmanteDeLaTecnología",
+    "reseña": "Como aficionado a la tecnología, aprecio los aspectos técnicos de este producto. Bien hecho."
+  },
+  {
+    "usuario": "NovatoEnCompras",
+    "reseña": "Es mi primera vez comprando algo así y estoy completamente satisfecho con la decisión."
+  },
+  {
+    "usuario": "GurúDeLasCompras",
+    "reseña": "He probado varios productos similares y este se destaca por su durabilidad y facilidad de uso."
+  },
+  {
+    "usuario": "usuario1",
+    "reseña": "Gran producto, muy útil y de alta calidad."
+  },
+  { "usuario": "usuario2", "reseña": "Estoy muy satisfecho con mi compra." },
+  {
+    "usuario": "usuario3",
+    "reseña": "El producto llegó a tiempo y en perfectas condiciones."
+  },
+  {
+    "usuario": "usuario4",
+    "reseña": "Definitivamente recomendaría este producto."
+  },
+  {
+    "usuario": "usuario5",
+    "reseña": "El servicio al cliente fue excelente."
+  },
+  {
+    "usuario": "usuario6",
+    "reseña": "Este producto superó mis expectativas."
+  },
+  { "usuario": "usuario7", "reseña": "Vale la pena por el precio." },
+  {
+    "usuario": "usuario8",
+    "reseña": "Es exactamente lo que estaba buscando."
+  },
+  { "usuario": "usuario9", "reseña": "Es muy fácil de usar." },
+  {
+    "usuario": "usuario10",
+    "reseña": "Estoy impresionado con la durabilidad del producto."
+  },
+  { "usuario": "usuario11", "reseña": "Es un producto imprescindible." },
+  { "usuario": "usuario12", "reseña": "Es muy práctico y versátil." },
+  { "usuario": "usuario13", "reseña": "Es un producto de alta calidad." },
+  { "usuario": "usuario14", "reseña": "Estoy muy contento con esta compra." },
+  { "usuario": "usuario15", "reseña": "Es un excelente producto." },
+  { "usuario": "usuario16", "reseña": "Es muy útil y funcional." },
+  { "usuario": "usuario17", "reseña": "Es un producto de gran valor." },
+  { "usuario": "usuario18", "reseña": "Es un producto imprescindible." },
+  { "usuario": "usuario19", "reseña": "Es muy práctico y versátil." },
+  { "usuario": "usuario20", "reseña": "Es un producto de alta calidad." },
+  { "usuario": "usuario21", "reseña": "Estoy muy contento con esta compra." },
+  { "usuario": "usuario22", "reseña": "Es un excelente producto." },
+  { "usuario": "usuario23", "reseña": "Es muy útil y funcional." },
+  { "usuario": "usuario24", "reseña": "Es un producto de gran valor." },
+  { "usuario": "usuario25", "reseña": "Es un producto imprescindible." },
+  { "usuario": "usuario26", "reseña": "Es muy práctico y versátil." },
+  { "usuario": "usuario27", "reseña": "Es un producto de alta calidad." },
+  { "usuario": "usuario28", "reseña": "Estoy muy contento con esta compra." },
+  { "usuario": "usuario29", "reseña": "Es un excelente producto." },
+  { "usuario": "usuario30", "reseña": "Es muy útil y funcional." },
+  {
+    "usuario": "AnaGomez",
+    "reseña": "Gran producto, muy útil y de alta calidad."
+  },
+  { "usuario": "CarlosLopez", "reseña": "Estoy muy satisfecho con mi compra." },
+  {
+    "usuario": "DianaPerez",
+    "reseña": "El producto llegó a tiempo y en perfectas condiciones."
+  },
+  {
+    "usuario": "EduardoRamirez",
+    "reseña": "Definitivamente recomendaría este producto."
+  },
+  {
+    "usuario": "FernandaCastillo",
+    "reseña": "El servicio al cliente fue excelente."
+  },
+  {
+    "usuario": "GabrielTorres",
+    "reseña": "Este producto superó mis expectativas."
+  },
+  { "usuario": "HectorOrtiz", "reseña": "Vale la pena por el precio." },
+  {
+    "usuario": "IreneGuerrero",
+    "reseña": "Es exactamente lo que estaba buscando."
+  },
+  { "usuario": "JavierCruz", "reseña": "Es muy fácil de usar." },
+  {
+    "usuario": "KarlaMendoza",
+    "reseña": "Estoy impresionado con la durabilidad del producto."
+  },
+  { "usuario": "LuisFernandez", "reseña": "Es un producto imprescindible." },
+  { "usuario": "MariaSanchez", "reseña": "Es muy práctico y versátil." },
+  { "usuario": "NicolasPeña", "reseña": "Es un producto de alta calidad." },
+  { "usuario": "OliviaRojas", "reseña": "Estoy muy contento con esta compra." },
+  { "usuario": "PabloVargas", "reseña": "Es un excelente producto." },
+  { "usuario": "RaquelMedina", "reseña": "Es muy útil y funcional." },
+  { "usuario": "SergioGutierrez", "reseña": "Es un producto de gran valor." },
+  { "usuario": "TeresaDelgado", "reseña": "Es un producto imprescindible." },
+  { "usuario": "UlisesNavarro", "reseña": "Es muy práctico y versátil." },
+  { "usuario": "VivianaParedes", "reseña": "Es un producto de alta calidad." },
+  {
+    "usuario": "WalterSalazar",
+    "reseña": "Estoy muy contento con esta compra."
+  },
+  { "usuario": "XimenaCabrera", "reseña": "Es un excelente producto." },
+  { "usuario": "YolandaBernal", "reseña": "Es muy útil y funcional." },
+  { "usuario": "ZacariasAlvarez", "reseña": "Es un producto de gran valor." },
+  { "usuario": "AndreaMorales", "reseña": "Es un producto imprescindible." },
+  { "usuario": "BernardoHerrera", "reseña": "Es muy práctico y versátil." },
+  {
+    "usuario": "CeciliaDominguez",
+    "reseña": "Es un producto de alta calidad."
+  },
+  {
+    "usuario": "DanielJimenez",
+    "reseña": "Estoy muy contento con esta compra."
+  },
+  { "usuario": "EstherLuna", "reseña": "Es un excelente producto." },
+  { "usuario": "FelipeSolis", "reseña": "Es muy útil y funcional." }
+]
